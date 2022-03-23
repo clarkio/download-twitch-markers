@@ -1,0 +1,35 @@
+{
+  "name": "download-twitch-markers",
+  "version": "0.1.0",
+  "description": "Download stream markers from Twitch VODs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clarkio/download-twitch-markers.git"
+  },
+  "keywords": [
+    "javascript",
+    "node.js",
+    "twitch",
+    "stream",
+    "live",
+    "markers",
+    "livestream"
+  ],
+  "author": "clarkio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clarkio/download-twitch-markers/issues"
+  },
+  "homepage": "https://github.com/clarkio/download-twitch-markers#readme",
+  "dependencies": {
+    "@twurple/api": "^5.0.18",
+    "@twurple/auth": "^5.0.18",
+    "dotenv": "^16.0.0"
+  }
+}

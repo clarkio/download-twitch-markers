@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/clarkio/download-twitch-markers#readme",
   "dependencies": {
-    "@twurple/auth": "^5.1.0",
+    "@twurple/auth": "^5.3.4",
     "@twurple/api": "^5.0.19",
     "dotenv": "^16.0.0"
   }

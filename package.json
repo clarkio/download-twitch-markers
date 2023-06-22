@@ -28,8 +28,8 @@
   },
   "homepage": "https://github.com/clarkio/download-twitch-markers#readme",
   "dependencies": {
-    "@twurple/auth": "^5.0.19",
     "@twurple/api": "^5.1.0",
-    "dotenv": "^16.0.0"
+    "@twurple/auth": "^5.3.4",
+    "dotenv": "^16.1.1"
   }
 }

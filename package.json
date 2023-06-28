@@ -30,6 +30,6 @@
   "dependencies": {
     "@twurple/api": "^5.1.0",
     "@twurple/auth": "^5.3.4",
-    "dotenv": "^16.1.1"
+    "dotenv": "^16.1.4"
   }
 }
